@@ -4,7 +4,7 @@
   
 </p>
 
-# Hi guys 👋  I'm Yılmaz Kadan,  I'am a fullstack junior web developer 
+# Hi guys 👋  I'm Yılmaz Kadan,  I'am a fullstack web developer 
 
 
 
