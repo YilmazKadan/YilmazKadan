@@ -11,8 +11,6 @@
 
 
 - 🔭 Web development is my passion.
-- 🌱 I’m currently learning **Frontend Development** , **MVC Architecture** , and **PHP Frameworks**
-- 💬 Ask me about **PHP**, **Javascript** ,**C#**
 - 📫 How to reach me: kadan8080@gmail.com
 - ⚡ I spend almost 7-8 hours Learning everyday
 - :computer: My Youtube Channel : https://www.youtube.com/channel/UCvPT1pVWer12f4DUxXmGDpA
